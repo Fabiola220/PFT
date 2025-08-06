@@ -90,9 +90,6 @@ Contributions are welcome! To contribute to this project:
 3. Commit your changes and push them to your fork.
 4. Open a pull request against the main repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
